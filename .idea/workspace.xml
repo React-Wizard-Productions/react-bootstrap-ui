@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c80a58-7552-4feb-a165-00d4aa0d42ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/css-reset/src/css-reset.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/css-reset/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/css-reset/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/css-reset/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/css-reset/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="f9c80a58-7552-4feb-a165-00d4aa0d42ed" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597860682809</updated>
       <workItem from="1597860683985" duration="2129000" />
-      <workItem from="1597863412560" duration="2558000" />
+      <workItem from="1597863412560" duration="3289000" />
     </task>
     <servers />
   </component>
