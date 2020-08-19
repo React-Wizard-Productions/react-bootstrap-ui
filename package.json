@@ -1,0 +1,9 @@
+{
+  "name": "react-bootstrap-ui",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "author": "Donald Whitely <dswhitely1@gmail.com>",
+  "license": "MIT"
+}
