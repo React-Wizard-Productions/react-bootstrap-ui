@@ -37,6 +37,7 @@
   "author": "Donald Whitely <dswhitely1@gmail.com> (https://www.donwhitely.com/)",
   "license": "MIT",
   "peerDependencies": {
+    "@emotion/core": "10.x",
     "react": "16.x"
   }
 }
